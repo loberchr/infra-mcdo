@@ -1,2 +1,1 @@
-# infra-mcdo
-Repositorio de pruebas de MCDO - UAI
+# test-uai-lab01-mlops
